@@ -24,7 +24,7 @@ WxStreamSets is a  webMethods Integration Server package designed to simplify th
 5. Copy the **Credential ID** and **Token**.
 
 ## Usage
-There are three flow-services as follows:
+Following APIs in terms of flow-services are supported:
 1. wx.streamsets.v1.jobRunner.services.startJobById - To start a specific job.
 2. wx.streamsets.v1.jobRunner.services.getJobCurrentStatusById - To get the status of a specific job.
 3. wx.streamsets.v1.jobRunner.services.custom.startJobByIdSync - To start a specific job and wait for it to finish.
