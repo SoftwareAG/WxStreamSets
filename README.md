@@ -10,7 +10,7 @@ WxStreamSets is a  webMethods Integration Server package designed to simplify th
 2.	Start StreamSets Job synchronously.
  
 ## Installation
-1.	Download the latest release of WxStreamSets.zip from Releases section.
+1.	Download the latest release of WxStreamSets.zip from [Releases](https://github.com/SoftwareAG/WxStreamSets/releases) section.
 2.	Copy WxStreamSets.zip to /${SAG_HOME}/IntegrationServer/instances/${INSTANCE}/replicate/inbound directory.
 3.	Login to Integration Server Admin Console http://${HOST_NAME}:${PORT}.
 4.	Go to Packages > Management in the left side menu and click Install Inbound Releases.
