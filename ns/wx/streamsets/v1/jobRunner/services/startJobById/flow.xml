@@ -164,7 +164,7 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="pub.client:http" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT>--StartJobAPICall--</COMMENT>
+  <COMMENT>-- Start Job API Call --</COMMENT>
 
   <!-- nodes -->
 
