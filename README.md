@@ -27,7 +27,9 @@ WxStreamSets is a  webMethods Integration Server package designed to simplify th
 Following APIs in terms of flow-services are supported:
 1. wx.streamsets.v1.jobRunner.services.startJobById - To start a specific job.
 2. wx.streamsets.v1.jobRunner.services.getJobCurrentStatusById - To get the status of a specific job.
-3. wx.streamsets.v1.jobRunner.services.custom.startJobByIdSync - To start a specific job and wait for it to finish.
+3. wx.streamsets.v1.jobRunner.services.stopJobById - To stop a specific job.
+4. wx.streamsets.v1.jobRunner.services.forceStopJobById - To force stop a specific job.
+5. wx.streamsets.v1.jobRunner.services.custom.startJobByIdSync - To start a specific job and wait for it to finish.
 
 All services require three inputs for authentication:
 1. auth.baseUrl - Hostname of StreamSets Control Hub. Example: https://test.hub.streamsets.com
